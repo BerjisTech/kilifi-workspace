@@ -63,7 +63,8 @@
               "projects/kilifi-gateway-frontend/src/assets"
             ],
             "styles": [
-              "projects/kilifi-gateway-frontend/src/styles.scss"
+              "projects/kilifi-gateway-frontend/src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
